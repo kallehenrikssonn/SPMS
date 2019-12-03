@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/csdewas-project-2-kallehenrikssonn/static/css/main.b100e6da.chunk.css",
+    "main.js": "/csdewas-project-2-kallehenrikssonn/static/js/main.061b2437.chunk.js",
+    "main.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/main.061b2437.chunk.js.map",
+    "runtime-main.js": "/csdewas-project-2-kallehenrikssonn/static/js/runtime-main.daed946d.js",
+    "runtime-main.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/runtime-main.daed946d.js.map",
+    "static/js/2.018416c1.chunk.js": "/csdewas-project-2-kallehenrikssonn/static/js/2.018416c1.chunk.js",
+    "static/js/2.018416c1.chunk.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/2.018416c1.chunk.js.map",
+    "index.html": "/csdewas-project-2-kallehenrikssonn/index.html",
+    "precache-manifest.c974de459a5e9348d381613d7422bbf0.js": "/csdewas-project-2-kallehenrikssonn/precache-manifest.c974de459a5e9348d381613d7422bbf0.js",
+    "service-worker.js": "/csdewas-project-2-kallehenrikssonn/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/csdewas-project-2-kallehenrikssonn/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/csdewas-project-2-kallehenrikssonn/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daed946d.js",
+    "static/js/2.018416c1.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.061b2437.chunk.js"
+  ]
+}
