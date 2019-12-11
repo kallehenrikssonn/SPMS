@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/csdewas-project-2-kallehenrikssonn/static/css/main.aef207ed.chunk.css",
-    "main.js": "/csdewas-project-2-kallehenrikssonn/static/js/main.bb7a86e4.chunk.js",
-    "main.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/main.bb7a86e4.chunk.js.map",
+    "main.js": "/csdewas-project-2-kallehenrikssonn/static/js/main.37137866.chunk.js",
+    "main.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/main.37137866.chunk.js.map",
     "runtime-main.js": "/csdewas-project-2-kallehenrikssonn/static/js/runtime-main.daed946d.js",
     "runtime-main.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/runtime-main.daed946d.js.map",
     "static/js/2.3ae41d55.chunk.js": "/csdewas-project-2-kallehenrikssonn/static/js/2.3ae41d55.chunk.js",
     "static/js/2.3ae41d55.chunk.js.map": "/csdewas-project-2-kallehenrikssonn/static/js/2.3ae41d55.chunk.js.map",
     "index.html": "/csdewas-project-2-kallehenrikssonn/index.html",
-    "precache-manifest.e1fd1c279055adc7b2a76151190883ba.js": "/csdewas-project-2-kallehenrikssonn/precache-manifest.e1fd1c279055adc7b2a76151190883ba.js",
+    "precache-manifest.a4e08cccc70da8f8b2e7378a405ce7da.js": "/csdewas-project-2-kallehenrikssonn/precache-manifest.a4e08cccc70da8f8b2e7378a405ce7da.js",
     "service-worker.js": "/csdewas-project-2-kallehenrikssonn/service-worker.js",
     "static/css/main.aef207ed.chunk.css.map": "/csdewas-project-2-kallehenrikssonn/static/css/main.aef207ed.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.daed946d.js",
     "static/js/2.3ae41d55.chunk.js",
     "static/css/main.aef207ed.chunk.css",
-    "static/js/main.bb7a86e4.chunk.js"
+    "static/js/main.37137866.chunk.js"
   ]
 }
