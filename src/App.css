@@ -1,0 +1,190 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.col {
+  color: #61dafb;
+}
+
+/* Styling of portfolio card */
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: auto;
+  height: 500px;
+  padding:3%;
+  max-width: 510px;
+  min-height: 590px;
+  float:left;
+  position: relative;
+  border: 5px solid black;
+}
+
+.card .close{
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+/*Styling of datasheet of stocks*/
+table.dataSheet {
+  table-layout: fixed;
+  border: 2px solid #000000;
+  background-color: grey;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table.dataSheet td, table.dataSheet th {
+  border: 2px solid #AAAAAA;
+  padding: 4px 3px;
+}
+
+table.dataSheet tbody td {
+  font-size: 14px;
+}
+
+table.dataTable tbody td input {
+  margin-left:25%;
+}
+
+table.dataSheet tr:nth-child(even) {
+  background: #FFFFFF;
+}
+
+table.dataSheet thead {
+  background: #FFFFFF;
+  background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 33%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 33%, #FFFFFF 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 33%, #FFFFFF 100%);
+  border-bottom: 3px solid #444444;
+}
+
+table.dataSheet thead th {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  border-left: 2px solid #000000;
+}
+
+table.dataSheet thead th:first-child {
+  border-left: none;
+}
+
+table.dataSheet tfoot {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #F5F5F5;
+  background: -moz-linear-gradient(top, #f7f7f7 0%, #f6f6f6 33%, #F5F5F5 100%);
+  background: -webkit-linear-gradient(top, #f7f7f7 0%, #f6f6f6 33%, #F5F5F5 100%);
+  background: linear-gradient(to bottom, #f7f7f7 0%, #f6f6f6 33%, #F5F5F5 100%);
+  border-top: 2px solid #444444;
+}
+
+table.dataSheet tfoot td {
+  font-size: 15px;
+}
+
+table.dataSheet tfoot .links {
+  text-align: right;
+}
+
+table.dataSheet tfoot .links a{
+  display: inline-block;
+  background: grey;
+  color: #FFFFFF;
+  padding: 4% 6%;
+  border-radius: 5px;
+}
+table {
+  margin: 5%;
+}
+
+.datasheet-wrapper {
+  width: 100%;
+  height:500px;
+  overflow:scroll;
+}
+
+.card-list-table {
+  background: white;
+}
+/*Styling of buttons*/
+.button-group {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.button-group button {
+  background-color: rgb(192, 192, 192);
+  margin: 6%;
+  float: left;
+}
+
+.addPortfolio{
+  padding: 3%;
+  display: flex;
+}
+
+.addPortfolio button{
+  background-color: grey;
+  border: 2px solid black;
+  color: black;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 90%;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+/* Clear floats (clearfix hack) */
+.button-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*Styling of closing buttons*/
+a.close{
+  position: relative;
+  margin-top:-2%;
+  margin-right:-2%;
+  color: #fff;
+  border: 2px solid #AEAEAE;
+  border-radius: 31px;
+  background: #605F61;
+  font-size: 31px;
+  font-weight: bold;
+  display: inline-block;
+  line-height: 0px;
+  padding: 11px 3px;
+}
+
+.close:before {
+  content: "×";
+}

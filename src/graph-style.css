@@ -1,0 +1,13 @@
+/*Styling of modal window popped up when showing performance graph*/
+.customModal{
+    width: 50%;
+    background-color: grey;
+
+}
+.customOverLay{
+    background-color: grey;
+}
+.modal{
+    width: 50%;
+    margin-left: 25%;
+}
