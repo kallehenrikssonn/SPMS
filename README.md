@@ -1,3 +1,6 @@
+I had problems with deployment of github pages so I had to delete repository and create a new one, that is why there is only one commit
+with a comment "Finalized project".
+
 Web page available in: https://it-teaching-abo-akademi.github.io/csdewas-project-2-kallehenrikssonn/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
